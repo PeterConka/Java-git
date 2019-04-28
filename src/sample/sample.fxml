@@ -14,5 +14,8 @@
         <HBox>
             <Label text="toto je novy label"></Label>
         </HBox>
+        <HBox>
+            <Label text="comit3"></Label>
+        </HBox>
     </VBox>
 </GridPane>
